@@ -1,0 +1,7 @@
+{
+  "name": "Elite Dental Group - Corporate Excellence",
+  "description": "A high-end corporate dental website with Fortune 500 aesthetics, featuring interactive service tabs, animated stats, and a professional team showcase.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
